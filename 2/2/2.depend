@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1597889228 source:c:\users\gnosin\desktop\project euler\2\2\main.c
+	<stdio.h>
+	<stdlib.h>
+
